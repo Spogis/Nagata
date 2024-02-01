@@ -14,33 +14,31 @@ Para instalar as dependências necessárias, você precisa ter o Python instalad
 
 1. **Clone o Repositório**
 
-   Primeiro, clone o repositório do Nagata para a sua máquina local usando o seguinte comando no terminal:
+   Primeiro, clone o repositório do Nagata para a sua máquina local.
 
 
 2. **Instale as Dependências**
 
-Dentro do diretório do projeto, existe um arquivo chamado `requirements.txt` que contém todas as bibliotecas necessárias. Para instalá-las, execute o seguinte comando: pip install -r requirements.txt
-
-
-Isso vai instalar todas as dependências necessárias para rodar o Nagata.
+   Dentro do diretório do projeto, existe um arquivo chamado `requirements.txt` que contém todas as bibliotecas necessárias. Para instalá-las, execute o seguinte comando: **pip install -r requirements.txt**
+   Isso vai instalar todas as dependências necessárias para rodar o Nagata.
 
 ## Execução
 
 Para executar a aplicação, siga estas etapas:
 
-1. Navegue até o diretório do projeto onde o `main.py` está localizado.
+* Navegue até o diretório do projeto onde o `main.py` está localizado.
 
-2. Execute o arquivo `main.py` usando Python: python main.py
+* Execute o arquivo `main.py` usando Python: python main.py
 
-3. Após executar o comando, o Dash vai iniciar o servidor local e você poderá acessar a aplicação através do seu navegador. Normalmente, a URL será algo como `http://127.0.0.1:8050/`.
+* Após executar o comando, o Dash vai iniciar o servidor local e você poderá acessar a aplicação através do seu navegador. Normalmente, a URL será algo como `http://127.0.0.1:8050/`.
 
 ## Exemplo de Impelidores
 
-1. No diretório [Impellers](https://github.com/Spogis/Nagata/tree/master/impellers) você encontrará dois arquivos de exemplos de dados de Np vs Re de Impelidores
+* No diretório [Impellers](https://github.com/Spogis/Nagata/tree/master/impellers) você encontrará dois arquivos de exemplos de dados de Np vs Re de Impelidores
 
-2. Para gerar os dados para o seu Impelidor, utilize o WebPlotDigitizer (https://automeris.io/WebPlotDigitizer/)
+* Para gerar os dados para o seu Impelidor, utilize o WebPlotDigitizer (https://automeris.io/WebPlotDigitizer/)
 
-3. No meu canal do YouTube você encontrará uma aula de como utilizat este belíssimo Software! Link: https://youtube.com/live/saBJDJhoRj8
+* No meu canal do YouTube você encontrará uma aula de como utilizat este belíssimo Software! Link: https://youtube.com/live/saBJDJhoRj8
 
 Clique na Imagem abaixo para assistir o video explicativo:
 [![Watch the video](https://img.youtube.com/vi/saBJDJhoRj8/0.jpg)](https://youtube.com/live/saBJDJhoRj8)
