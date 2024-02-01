@@ -20,7 +20,9 @@ Para instalar as dependências necessárias, você precisa ter o Python instalad
 2. **Instale as Dependências**
 
    Dentro do diretório do projeto, existe um arquivo chamado `requirements.txt` que contém todas as bibliotecas necessárias. Para instalá-las, execute o seguinte comando: **pip install -r requirements.txt**
-   Isso vai instalar todas as dependências necessárias para rodar o Nagata.
+   
+
+3. Isso vai instalar todas as dependências necessárias para rodar o Nagata.
 
 ## Execução
 
