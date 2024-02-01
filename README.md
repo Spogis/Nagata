@@ -36,7 +36,7 @@ Para executar a aplicação, siga estas etapas:
 
 ## Exemplo de Impelidores
 
-1. No diretório /impellers/ você encontrará dois arquivos de exemplos de dados de Np vs Re de Impelidores
+1. No diretório [Impellers](https://github.com/Spogis/Nagata/tree/master/impellers) você encontrará dois arquivos de exemplos de dados de Np vs Re de Impelidores
 
 2. Para gerar os dados para o seu Impelidor, utilize o WebPlotDigitizer (https://automeris.io/WebPlotDigitizer/)
 
@@ -44,7 +44,6 @@ Para executar a aplicação, siga estas etapas:
 
 Clique na Imagem abaixo para assistir o video explicativo:
 [![Watch the video](https://img.youtube.com/vi/saBJDJhoRj8/0.jpg)](https://youtube.com/live/saBJDJhoRj8)
-
 
 ## Suporte
 
